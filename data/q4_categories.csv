@@ -1,0 +1,11 @@
+merchant_category,txn_count,total_value_mn,avg_amount
+Shopping,29872,76.86,2573
+Grocery,49966,58.28,1166
+Utilities,22338,52.74,2361
+Fuel,25063,38.98,1555
+Education,7598,38.70,5094
+Other,24828,21.07,849
+Food,37464,19.92,532
+Entertainment,20103,8.31,413
+Healthcare,12663,6.87,543
+Transport,20105,6.19,308

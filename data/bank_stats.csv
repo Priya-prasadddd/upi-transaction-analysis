@@ -1,0 +1,9 @@
+bank,npci_bank_name,month,total_volume_mn,approved_pct,business_decline_pct,technical_decline_pct,debit_reversal_count_mn,debit_reversal_success_pct
+SBI,State Bank of India,2024-12,4540.13,92.94,6.58,0.48,13.76,93.82
+HDFC,HDFC Bank Ltd.,2024-12,1403.46,93.89,6.02,0.09,4.4,99.79
+PNB,Punjab National Bank,2024-12,954.15,89.81,9.28,0.91,3.59,88.47
+Kotak,Kotak Mahindra Bank,2024-12,872.07,90.25,9.7,0.05,2.31,93.59
+Axis,Axis Bank Ltd.,2024-12,810.01,93.8,6.17,0.03,1.93,98.02
+ICICI,ICICI Bank Ltd.,2024-12,700.67,95.17,4.72,0.11,1.69,94.66
+IndusInd,Indusind Bank Ltd.,2024-12,185.78,88.29,11.53,0.18,0.73,79.14
+Yes Bank,Yes Bank Ltd.,2024-12,167.84,83.65,15.97,0.37,0.6,54.97

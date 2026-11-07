@@ -1,0 +1,9 @@
+sender_bank,synthetic_txns,synthetic_fail_pct,real_fail_pct
+"Yes Bank",24860,5.10,16.35
+IndusInd,25173,4.95,11.71
+PNB,24946,4.89,10.19
+Kotak,20032,4.98,9.75
+SBI,62693,4.94,7.06
+Axis,25042,4.95,6.2
+HDFC,37485,4.82,6.11
+ICICI,29769,5.04,4.83
